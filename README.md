@@ -1,2 +1,3 @@
 # Portfolio
-Public Portfolio
+
+Welcome to my Github Portfolio. 
